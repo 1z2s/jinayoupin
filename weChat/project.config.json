@@ -1,0 +1,108 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"id": "wx3375420e2c184d34",
+	"appid": "wx6c85dc0083b1569f",
+	"projectname": "up_wechat_app",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 9,
+			"list": [
+				{
+					"id": -1,
+					"name": "分享页面",
+					"pathName": "pages/share/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "专题页面",
+					"pathName": "pages/special/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "myorder",
+					"pathName": "pages/myorder/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "收货地址",
+					"pathName": "pages/shoppingadress/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "orderdetail",
+					"pathName": "pages/orderdetails/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "搜索",
+					"pathName": "pages/seek/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "购物地址",
+					"pathName": "pages/shoppingadress/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "添加地址",
+					"pathName": "pages/shoppingadress/redactAddress/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "身份认证",
+					"pathName": "pages/autonym/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 9,
+					"name": "登录",
+					"pathName": "pages/phone/main",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

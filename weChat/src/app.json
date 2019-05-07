@@ -1,0 +1,28 @@
+{
+  "pages": [
+      "pages/referrer/main",
+      "pages/phone/main",
+      "pages/classify/main",
+      "pages/autonym/main",
+      "pages/share/main",
+
+      "pages/special/main",
+      "pages/conponlist/main",
+      "pages/logistics/main",
+      "pages/myorder/main",
+      "pages/orderdetails/main",
+      "pages/seek/main",
+
+      "pages/sharedetail/main",
+      "pages/logs/main",
+      "pages/shoppingadress/main",
+      "pages/shoppingadress/redactAddress/main",
+      "pages/logistics/success/main"
+  ],
+  "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "WeChat",
+      "navigationBarTextStyle": "black"
+  }
+}
